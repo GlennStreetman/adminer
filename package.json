@@ -1,0 +1,11 @@
+{
+    "name": "dbmanager",
+    "version": "1.0.0",
+    "scripts": {
+        "up": " docker-compose -f app.yaml up"
+    },
+    "description": "db management interfaces",
+    "main": "index.js",
+    "author": "",
+    "license": "ISC"
+}
